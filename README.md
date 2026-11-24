@@ -1,6 +1,6 @@
 # American English Pronunciation Resources
 
-Audio and video resources for learning the International Phonetic Alphabet (IPA) and American English pronunciation.
+Audio and video resources for learning American English pronunciation.
 
 ## Contents
 
@@ -17,7 +17,6 @@ Audio and video resources for learning the International Phonetic Alphabet (IPA)
 
 - **Android** — [Google Play](https://play.google.com/store/apps/details?id=com.aepronunciation.ipa) | [GitHub (`aePronunciation`)](https://github.com/suragch/aePronunciation)
 - **iOS** — [App Store](https://apps.apple.com/us/app/ae-pronunciation/id1049726030) | [GitHub (`aePronunciation-iOS`)](https://github.com/suragch/aePronunciation-iOS)
-- **Flutter** — [GitHub (`aePronunciation-flutter`)](https://github.com/suragch/aePronunciation-flutter)
 
 ## License
 
